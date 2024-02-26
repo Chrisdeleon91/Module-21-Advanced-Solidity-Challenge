@@ -34,17 +34,18 @@ After waiting for years and passing several tests, I was selected by the Martian
 ![9](https://github.com/Chrisdeleon91/Module-21-Advanced-Solidity-Challenge/assets/22796940/e4dcd199-3396-4b35-a930-fdf23b837e64)]
 ![10](https://github.com/Chrisdeleon91/Module-21-Advanced-Solidity-Challenge/assets/22796940/1060f56b-fa92-43ea-94d9-a4f0386f70a0)
 * Create a transaction using another connected account and buy 1 KaseiCoin
-![12](https://github.com/Chrisdeleon91/Module-21-Advanced-Solidity-Challenge/assets/22796940/fdf82ab7-3384-447e-bd29-872c1b2cec58)
-![13](https://github.com/Chrisdeleon91/Module-21-Advanced-Solidity-Challenge/assets/22796940/d15f2cd9-8eef-4dee-a3b4-254aff98ddae)
-![14](https://github.com/Chrisdeleon91/Module-21-Advanced-Solidity-Challenge/assets/22796940/9d1feb59-a735-4957-a9b5-8664408dbebc)
+![11](https://github.com/Chrisdeleon91/Module-21-Advanced-Solidity-Challenge/assets/22796940/fdf82ab7-3384-447e-bd29-872c1b2cec58)
+![12](https://github.com/Chrisdeleon91/Module-21-Advanced-Solidity-Challenge/assets/22796940/d15f2cd9-8eef-4dee-a3b4-254aff98ddae)
+![13](https://github.com/Chrisdeleon91/Module-21-Advanced-Solidity-Challenge/assets/22796940/9d1feb59-a735-4957-a9b5-8664408dbebc)
 * Verify the transcation in Ganache
-![15](https://github.com/Chrisdeleon91/Module-21-Advanced-Solidity-Challenge/assets/22796940/0a2b9890-819e-4bd4-8b39-48986e8ad41c)
+![14](https://github.com/Chrisdeleon91/Module-21-Advanced-Solidity-Challenge/assets/22796940/0a2b9890-819e-4bd4-8b39-48986e8ad41c)
 * Check the account to see if the weiRaised value changed as much as the transcation amount above
-![16](https://github.com/Chrisdeleon91/Module-21-Advanced-Solidity-Challenge/assets/22796940/cd004f5e-fa88-461c-b338-4390efda617c)
+![15](https://github.com/Chrisdeleon91/Module-21-Advanced-Solidity-Challenge/assets/22796940/cd004f5e-fa88-461c-b338-4390efda617c)
 * In KaseiCoinCrowdsaleDeployer find the "kasei_token_address" and copy it to launch the "KaseiCoin" contract using the "At Address" button
-![17](https://github.com/Chrisdeleon91/Module-21-Advanced-Solidity-Challenge/assets/22796940/104530e8-3994-47ad-a122-5d67bd86fdad)
+![16](https://github.com/Chrisdeleon91/Module-21-Advanced-Solidity-Challenge/assets/22796940/104530e8-3994-47ad-a122-5d67bd86fdad)
 * Verify the amount of KaseiCoin's purchased through the crowdsale
-![18](https://github.com/Chrisdeleon91/Module-21-Advanced-Solidity-Challenge/assets/22796940/82cbe9cb-ca58-447d-b45d-a6bf99dd628d)
+![17](https://github.com/Chrisdeleon91/Module-21-Advanced-Solidity-Challenge/assets/22796940/82cbe9cb-ca58-447d-b45d-a6bf99dd628d)
+
 ![Picture](https://www.columbia.edu/content/themes/custom/columbia/assets/img/cu-header.svg)
 
 
